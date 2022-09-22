@@ -13,7 +13,7 @@ Research
 
 I am a 3rd year PhD student working with [Jon Freeman](http://www.jonbfreeman.com/) at Columbia University. 
 
-Other people are complex and dynamic. When you interact with another person, many pieces information, from their expressions, body, and voice, are seamlessly integrated and processed as you form an impression of this person. How do we extract and organize useful information about others? And how might the knowledge held by you, the perceiver, bias this process?
+Other people are complex and dynamic. When you interact with another person, many pieces of information, from their expressions, body, and voice, are seamlessly integrated and processed as you form an impression of this person. How do we extract and organize useful information about others? And how might the knowledge held by you, the perceiver, bias this process?
 
 My research, using behavioral and neuroimaging studies, has so far looked more specifically at how we form impressions of groups of faces (compared to individual faces), how we categorize multiracial individuals, and how facial trait impressions are represented in the brain. 
 
