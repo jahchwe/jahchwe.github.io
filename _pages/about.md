@@ -20,7 +20,7 @@ My research, using behavioral and neuroimaging studies, has so far looked more s
 Publications
 ======
 
-* Freeman, J.B. & **Chwe, J.A.** (in press). Social categorization: Looking towards the future. In D. Carlston, K.L. Johnson, & K. Hugenberg (Eds.), The Oxford Handbook of Social Cognition, 2nd Edition. Oxford University Press. [PDF]('https://jahchwe.github.io/files/Freeman_Chwe_HandbookSocialCog.pdf')
+* Freeman, J.B. & **Chwe, J.A.** (in press). Social categorization: Looking towards the future. In D. Carlston, K.L. Johnson, & K. Hugenberg (Eds.), The Oxford Handbook of Social Cognition, 2nd Edition. Oxford University Press. [PDF]('Freeman_Chwe_HandbookSocialCog.pdf')
 
 * **Chwe, J.A.** & Freeman, J.B. (under review). Trustworthiness of Crowds is Gleaned in Half a Second. 
 
