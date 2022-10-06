@@ -28,7 +28,7 @@ Publications
 
 * **Chwe J.A.**, Lick, D.J, & Freeman, J.B. (in prep). The Real-Time Dynamics of Multiracial Categorizations 
 
-* Hyon, R., Chavez, R. S., **Chwe, J. A.**, Wheatley, T., Kleinbaum, A. M., & Parkinson, C. (In press). White matter connectivity in brain systems supporting social and affective processing predicts real-world social network characteristics. Communications Biology.
+* Hyon, R., Chavez, R. S., **Chwe, J. A.**, Wheatley, T., Kleinbaum, A. M., & Parkinson, C. (In press). White matter connectivity in brain systems supporting social and affective processing predicts real-world social network characteristics. Communications Biology. [PDF](files/white_matter_connect_hyon.pdf)
 
 Favorite papers
 ======
