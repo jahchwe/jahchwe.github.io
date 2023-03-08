@@ -20,15 +20,21 @@ My research, using behavioral and neuroimaging studies, has so far looked more s
 Publications
 ======
 
+* **Chwe, J.A.** & Freeman, J.B. (in press, Social Psychological and Personality Science). Trustworthiness of Crowds is Gleaned in Half a Second.  [PDF](files/ensemble_main.pdf)
+
 * Freeman, J.B. & **Chwe, J.A.** (in press). Social categorization: Looking towards the future. In D. Carlston, K.L. Johnson, & K. Hugenberg (Eds.), The Oxford Handbook of Social Cognition, 2nd Edition. Oxford University Press. [PDF](files/Freeman_Chwe_HandbookSocialCog.pdf)
 
-* **Chwe, J.A.** & Freeman, J.B. (under review). Trustworthiness of Crowds is Gleaned in Half a Second. 
+* Schwyck, M. E., Du, M., Natarajan, P., **Chwe, J. A.**, & Parkinson, C. (2023). Neural encoding of novel social networks: evidence that perceivers prioritize others’ centrality. Social Cognitive and Affective Neuroscience, 18(1) [PDF](files/schwyck_neural_encoding.pdf)
+
+* Hyon, R., Chavez, R. S., **Chwe, J. A.**, Wheatley, T., Kleinbaum, A. M., & Parkinson, C. (2022). White matter connectivity in brain systems supporting social and affective processing predicts real-world social network characteristics. Communications Biology. [PDF](files/white_matter_connect_hyon.pdf)
+
+In Preparation
+======
 
 * **Chwe, J.A.** & Freeman, J.B. (in prep). Neural Representation of Facial Trait Impressions 
 
 * **Chwe J.A.**, Lick, D.J, & Freeman, J.B. (in prep). The Real-Time Dynamics of Multiracial Categorizations 
 
-* Hyon, R., Chavez, R. S., **Chwe, J. A.**, Wheatley, T., Kleinbaum, A. M., & Parkinson, C. (In press). White matter connectivity in brain systems supporting social and affective processing predicts real-world social network characteristics. Communications Biology. [PDF](files/white_matter_connect_hyon.pdf)
 
 Favorite papers
 ======
