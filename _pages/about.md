@@ -20,7 +20,7 @@ My research, using behavioral and neuroimaging studies, has so far looked more s
 Publications
 ======
 
-* **Chwe, J.A.** & Freeman, J.B. (in press, Social Psychological and Personality Science). Trustworthiness of Crowds is Gleaned in Half a Second.  [PDF](files/ensemble_main.pdf)
+* **Chwe, J.A.** & Freeman, J.B. (in press, Social Psychological and Personality Science). Trustworthiness of Crowds is Gleaned in Half a Second.  [PDF](files/ensemble_main.pdf) [Blog](https://spsp.org/news/character-and-context-blog/chwe-group-trustworthiness)
 
 * Freeman, J.B. & **Chwe, J.A.** (in press). Social categorization: Looking towards the future. In D. Carlston, K.L. Johnson, & K. Hugenberg (Eds.), The Oxford Handbook of Social Cognition, 2nd Edition. Oxford University Press. [PDF](files/Freeman_Chwe_HandbookSocialCog.pdf)
 
