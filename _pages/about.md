@@ -38,10 +38,12 @@ In Preparation
 Projects Ongoing
 ======
 
-* Dynamic of Impression Formation Using Natural Language
+* **Dynamic of Impression Formation Using Natural Language**
+
   Traditional studies of impression formation generally use paradigms that deviate from real-world impression formation in two critical ways: 1) studies use static photos rather than dynamic stimuli (i.e. videos), and 2) rely on numerical ratings of experimenter-determined constructs of interest (i.e. “Rate this person on trustworthiness”, 1-7). Using advances in large language models, we develop a novel, data-driven paradigm that uses natural language responses elicited by dynamic, evocative videos to study impression formation.
 
-* Using Massive fMRI Data to Understand the Encoding of Dynamic Social Scenes
+* **Using Massive fMRI Data to Understand the Encoding of Dynamic Social Scenes**
+
   A recently collected fMRI dataset contains 6 participants who watched 6 seasons of the TV show Friends while in the scanner. Such data presents the unique opportunity to explore evolution of person representations on a naturalistic timescale, as well as the encoding of complex social scenes. 
 
 
@@ -49,5 +51,8 @@ Favorite papers
 ======
 
 * Jolly, E., & Chang, L.J. (2019). The Flatland Fallacy: Moving Beyond Low Dimensional Thinking. Topics in Cognitive Science, 1-22. [PDF](https://onlinelibrary.wiley.com/doi/epdf/10.1111/tops.12404)
+
+* McGuire, W. J. (1983). A contextualist theory of knowledge: Its implications for innovation and reform in psychological research. In Advances in experimental social psychology (Vol. 16, pp. 1-47). Academic Press.
+
 
 
