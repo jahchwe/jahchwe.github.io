@@ -13,9 +13,9 @@ Research
 
 I am a 4th year PhD student working with [Jon Freeman](http://www.jonbfreeman.com/) at Columbia University. 
 
-Other people are complex and dynamic. When you interact with another person, many pieces of information, from their expressions, body, and voice, are seamlessly integrated and processed as you form an impression of this person. How do we extract and organize useful information about others? And how might the knowledge held by you, the perceiver, bias this process?
+Other people are complex and dynamic. When you interact with another person, many pieces of information, from their expressions, body, and voice, are seamlessly integrated and processed as you form an impression of this person. How do we extract and organize useful information about others?
 
-My research, using behavioral and neuroimaging studies, has so far looked more specifically at how we form impressions of groups of faces (compared to individual faces), how we categorize multiracial individuals, and how facial trait impressions are represented in the brain. 
+My research uses behavioral experiments, neuroimaging studies, and computational modeling to investigate how perceivers encode, represent, and integrate information extracted from our social environments.
 
 Publications
 ======
@@ -33,7 +33,16 @@ In Preparation
 
 * **Chwe, J.A.** & Freeman, J.B. (in prep). Neural Representation of Facial Trait Impressions 
 
-* **Chwe J.A.**, Lick, D.J, & Freeman, J.B. (in prep). The Real-Time Dynamics of Multiracial Categorizations 
+* **Chwe J.A.**, Lick, D.J, & Freeman, J.B. (revision in process). The Real-Time Dynamics of Multiracial Categorizations 
+
+Projects Ongoing
+======
+
+* Dynamic of Impression Formation Using Natural Language
+  Traditional studies of impression formation generally use paradigms that deviate from real-world impression formation in two critical ways: 1) studies use static photos rather than dynamic stimuli (i.e. videos), and 2) rely on numerical ratings of experimenter-determined constructs of interest (i.e. “Rate this person on trustworthiness”, 1-7). Using advances in large language models, we develop a novel, data-driven paradigm that uses natural language responses elicited by dynamic, evocative videos to study impression formation.
+
+* Using Massive fMRI Data to Understand the Encoding of Dynamic Social Scenes
+  A recently collected fMRI dataset contains 6 participants who watched 6 seasons of the TV show Friends while in the scanner. Such data presents the unique opportunity to explore evolution of person representations on a naturalistic timescale, as well as the encoding of complex social scenes. 
 
 
 Favorite papers
