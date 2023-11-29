@@ -40,7 +40,7 @@ Projects Ongoing
 
 * **Dynamic of Impression Formation Using Natural Language**
 
-  Traditional studies of impression formation generally use paradigms that deviate from real-world impression formation in two critical ways: 1) studies use static photos rather than dynamic stimuli (i.e. videos), and 2) rely on numerical ratings of experimenter-determined constructs of interest (i.e. “Rate this person on trustworthiness”, 1-7). Using advances in large language models, we develop a novel, data-driven paradigm that uses natural language responses elicited by dynamic, evocative videos to study impression formation.
+  Traditional studies of impression formation generally use paradigms that deviate from real-world impression formation in two critical ways: 1) studies use static photos rather than dynamic stimuli (i.e. videos), and 2) rely on numerical ratings of experimenter-determined constructs of interest (i.e. “Rate this person on trustworthiness”, 1-7). We develop a novel, data-driven paradigm that uses natural language responses elicited by dynamic, evocative videos to study impression formation. [Paradigm code](https://github.com/jahchwe/nlp_dynamic_stim) [Analysis code](https://github.com/jahchwe/dynamic_impressions)
 
 * **Using Massive fMRI Data to Understand the Encoding of Dynamic Social Scenes**
 
