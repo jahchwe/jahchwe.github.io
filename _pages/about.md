@@ -31,7 +31,7 @@ Publications
 In Preparation
 ======
 
-* **Chwe, J.A.** & Freeman, J.B. (in prep). Neural Representation of Facial Trait Impressions 
+* **Chwe, J.A.**, Vartiainen, H., & Freeman, J.B. (under review). Multidimensional Neural Representation of Face Impressions
 
 * **Chwe J.A.**, Lick, D.J, & Freeman, J.B. (revision in process). The Real-Time Dynamics of Multiracial Categorizations 
 
