@@ -20,7 +20,11 @@ My research uses behavioral experiments, neuroimaging studies, and computational
 Publications
 ======
 
-* **Chwe, J.A.** & Freeman, J.B. (in press, Social Psychological and Personality Science). Trustworthiness of Crowds is Gleaned in Half a Second.  [PDF](files/ensemble_main.pdf) [Blog](https://spsp.org/news/character-and-context-blog/chwe-group-trustworthiness)
+* **Chwe, J.A.**, Lick, D.J., & Freeman, J.B. (in press). Reflexive activation of monoracial categories during multiracial categorization. Personality and Social Psychology Bulletin. [PDF](https://static1.squarespace.com/static/5daf65330e17a4220c7707ce/t/6684881821369b4990e9b5b9/1719961624503/ChweLickFreeman_PSPB.pdf) | [Supp. Materials](https://static1.squarespace.com/static/5daf65330e17a4220c7707ce/t/6684881821369b4990e9b5b9/1719961624503/ChweLickFreeman_PSPB.pdf)
+
+* **Chwe, J.A.**, Vartiainen, H.I., & Freeman, J.B. (in press). A multidimensional neural representation of face impressions. Journal of Neuroscience. [PDF](https://static1.squarespace.com/static/5daf65330e17a4220c7707ce/t/668b4fcf1ccfbe0df3620e24/1720405968429/ChweVartiainenFreeman_JNeuro.pdf)
+
+* **Chwe, J.A.** & Freeman, J.B. (in press, Social Psychological and Personality Science). Trustworthiness of Crowds is Gleaned in Half a Second.  [PDF](files/ensemble_main.pdf) [Blog](https://spsp.org/news/character-and-context-blog/chwe-group-trustworthiness) (2023 SPSP Student Publication Award)
 
 * Freeman, J.B. & **Chwe, J.A.** (in press). Social categorization: Looking towards the future. In D. Carlston, K.L. Johnson, & K. Hugenberg (Eds.), The Oxford Handbook of Social Cognition, 2nd Edition. Oxford University Press. [PDF](files/Freeman_Chwe_HandbookSocialCog.pdf)
 
@@ -28,12 +32,7 @@ Publications
 
 * Hyon, R., Chavez, R. S., **Chwe, J. A.**, Wheatley, T., Kleinbaum, A. M., & Parkinson, C. (2022). White matter connectivity in brain systems supporting social and affective processing predicts real-world social network characteristics. Communications Biology. [PDF](files/white_matter_connect_hyon.pdf)
 
-In Preparation
-======
 
-* **Chwe, J.A.**, Vartiainen, H., & Freeman, J.B. (under review). Multidimensional Neural Representation of Face Impressions
-
-* **Chwe J.A.**, Lick, D.J, & Freeman, J.B. (revision in process). The Real-Time Dynamics of Multiracial Categorizations 
 
 Projects Ongoing
 ======
