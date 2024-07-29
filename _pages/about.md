@@ -24,7 +24,7 @@ Publications
 
 * **Chwe, J.A.**, Vartiainen, H.I., & Freeman, J.B. (in press). A multidimensional neural representation of face impressions. Journal of Neuroscience. [PDF](https://static1.squarespace.com/static/5daf65330e17a4220c7707ce/t/668b4fcf1ccfbe0df3620e24/1720405968429/ChweVartiainenFreeman_JNeuro.pdf)
 
-* **Chwe, J.A.** & Freeman, J.B. (in press). Trustworthiness of Crowds is Gleaned in Half a Second. Social Psychological and Personality Science, 15, 351-359 [PDF](files/ensemble_main.pdf) [Blog](https://spsp.org/news/character-and-context-blog/chwe-group-trustworthiness) (2023 SPSP Student Publication Award)
+* **Chwe, J.A.** & Freeman, J.B. (2024). Trustworthiness of Crowds is Gleaned in Half a Second. Social Psychological and Personality Science, 15, 351-359 [PDF](files/ensemble_main.pdf) [Blog](https://spsp.org/news/character-and-context-blog/chwe-group-trustworthiness) (2023 SPSP Student Publication Award)
 
 * Freeman, J.B. & **Chwe, J.A.** (in press). Social categorization: Looking towards the future. In D. Carlston, K.L. Johnson, & K. Hugenberg (Eds.), The Oxford Handbook of Social Cognition, 2nd Edition. Oxford University Press. [PDF](files/Freeman_Chwe_HandbookSocialCog.pdf)
 
