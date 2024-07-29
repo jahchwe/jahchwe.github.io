@@ -20,7 +20,7 @@ My research uses behavioral experiments, neuroimaging studies, and computational
 Publications
 ======
 
-* **Chwe, J.A.**, Lick, D.J., & Freeman, J.B. (in press). Reflexive activation of monoracial categories during multiracial categorization. Personality and Social Psychology Bulletin. [PDF](https://static1.squarespace.com/static/5daf65330e17a4220c7707ce/t/6684881821369b4990e9b5b9/1719961624503/ChweLickFreeman_PSPB.pdf) [Supp. Materials](https://static1.squarespace.com/static/5daf65330e17a4220c7707ce/t/6684881821369b4990e9b5b9/1719961624503/ChweLickFreeman_PSPB.pdf)
+* **Chwe, J.A.**, Lick, D.J., & Freeman, J.B. (in press). Reflexive activation of monoracial categories during multiracial categorization. Personality and Social Psychology Bulletin. [PDF](https://static1.squarespace.com/static/5daf65330e17a4220c7707ce/t/6684881821369b4990e9b5b9/1719961624503/ChweLickFreeman_PSPB.pdf) [Supp. Materials](https://static1.squarespace.com/static/5daf65330e17a4220c7707ce/t/6684882b0313433da8925ec7/1719961643450/ChweLickFreeman_PSPB_suppl.pdf)
 
 * **Chwe, J.A.**, Vartiainen, H.I., & Freeman, J.B. (in press). A multidimensional neural representation of face impressions. Journal of Neuroscience. [PDF](https://static1.squarespace.com/static/5daf65330e17a4220c7707ce/t/668b4fcf1ccfbe0df3620e24/1720405968429/ChweVartiainenFreeman_JNeuro.pdf)
 
