@@ -11,7 +11,7 @@ redirect_from:
 Research
 ======
 
-I am a 4th year PhD student working with [Jon Freeman](http://www.jonbfreeman.com/) at Columbia University. 
+I am a 5th year PhD student working with [Jon Freeman](http://www.jonbfreeman.com/) at Columbia University. 
 
 Other people are complex and dynamic. When you interact with another person, many pieces of information, from their expressions, body, and voice, are seamlessly integrated and processed as you form an impression of this person. How do we extract and organize useful information about others?
 
